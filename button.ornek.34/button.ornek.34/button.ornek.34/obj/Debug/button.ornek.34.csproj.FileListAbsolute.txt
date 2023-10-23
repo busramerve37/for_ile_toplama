@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\bin\Debug\button.ornek.34.exe.config
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\bin\Debug\button.ornek.34.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\bin\Debug\button.ornek.34.pdb
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek.34.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek.34.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek._34.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek._34.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek.34.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek.34.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek.34.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.34\button.ornek.34\button.ornek.34\obj\Debug\button.ornek.34.pdb
